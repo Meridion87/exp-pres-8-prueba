@@ -1,0 +1,37 @@
+.footer-gen{
+	padding-bottom: 0px;
+	background-image: url('imagenes/spiration dark.png');
+}
+.foot-red-soc{
+	font-size: 20px;
+	color: white;
+}
+.body-index{
+	background-image: url('imagenes/circles-light.png');
+	margin-top: 0px;
+}
+.texto-carrusel{
+	color: white;
+	background-color: #829356;
+}
+.carrusel{
+	padding-top: 0px;
+	background-image: url('imagenes/wormz.png');
+	height: 600px;
+	width: 800px;
+}
+.lista{
+	float: left;
+	list-style-type: none;
+	margin-right: 10px;
+	color: red;
+	font-size: 18px;
+	margin-right: 40px;
+	margin-top: 5px;
+}
+.fuente-formulario{
+	color: white;
+}
+.color-navbar{
+	background-color: #66cc99;
+}
