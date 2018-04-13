@@ -10,6 +10,10 @@
 	background-image: url('imagenes/circles-light.png');
 	margin-top: 0px;
 }
+.body-index-2{
+	background-image: url('imagenes/light-veneer.png');
+	margin-top: 0px;
+}
 .texto-carrusel{
 	color: white;
 	background-color: #829356;
@@ -17,21 +21,31 @@
 .carrusel{
 	padding-top: 0px;
 	background-image: url('imagenes/wormz.png');
-	height: 600px;
-	width: 800px;
+
 }
 .lista{
 	float: left;
 	list-style-type: none;
-	margin-right: 10px;
-	color: red;
+	margin-right: 0px;	
 	font-size: 18px;
-	margin-right: 40px;
+	margin-right: 0px;
 	margin-top: 5px;
 }
 .fuente-formulario{
 	color: white;
 }
 .color-navbar{
-	background-color: #66cc99;
+	background-color: #33ccff;
+}
+.titulo-fundacion{
+	font-size: 20px;
+}
+.autor{
+	 color: #999900;
+}
+.titulo-noticia{
+	color: #ff6600;
+}
+.negrita{
+	font-weight: bold;
 }
